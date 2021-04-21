@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/EmployeeList/style.css","webpack://src/components/EmployeeTable/style.css"],"names":[],"mappings":"AAAA,IACI,2CAAsC,CAAtC,oCACJ,CCFA,GACI,wBAAiB,CAAjB,oBAAiB,CAAjB,gBACJ","file":"main.1dcf2d15.chunk.css","sourcesContent":["img {\r\n    filter: drop-shadow(0 0 0.35rem black);\r\n}","th {\r\n    user-select: none;\r\n}"]}
