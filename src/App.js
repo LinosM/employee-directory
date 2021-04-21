@@ -1,7 +1,6 @@
 import React from "react";
-import Navbar from "./components/Navbar/navbar";
-import Search from "./components/searchbar";
-import Body from "./components/Body/body";
+import Navbar from "./components/Navbar";
+import Body from "./components/Body";
 import "./App.css"
 
 function App() {
@@ -9,7 +8,6 @@ function App() {
     <div>
       <Navbar />
       <div className="container">
-        <Search />
         <Body />
       </div>
     </div>
