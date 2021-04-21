@@ -4,9 +4,7 @@ import EmployeeTable from "../EmployeeTable";
 class Body extends Component {
     render() {
         return (
-            <div>
-                <EmployeeTable />
-            </div>
+            <EmployeeTable />
         );
     };
 }
