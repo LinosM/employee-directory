@@ -52,6 +52,7 @@ class EmployeeTable extends React.Component {
 
     handleSearchChange = event => {
         const filter = event.target.value;
+        // eslint-disable-next-line array-callback-return
         const filteredList = this.state.result.filter(item => {
             let values = item.name.first.toLowerCase() + " " + item.name.last.toLowerCase();
             console.log(filter, values)
