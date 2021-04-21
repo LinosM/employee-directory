@@ -18,7 +18,7 @@ class EmployeeTable extends React.Component {
         this.searchEmp("?results=200&nat=us");
     };
 
-    // User API is ran 
+    // Runs user API and stores result to both arrays
     searchEmp = query => {
         API.search(query)
             .then(res => {
