@@ -1,3 +1,7 @@
 th {
     user-select: none;
 }
+
+table {
+    background-color: rgba(53, 58, 64, 0.5) !important;
+}

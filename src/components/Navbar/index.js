@@ -3,7 +3,7 @@ import "./style.css";
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-light bg-light">
+        <nav className="navbar navbar-light">
             <a className="navbar-brand" href="/">
                 Employee Directory
             </a>
