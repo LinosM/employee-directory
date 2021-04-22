@@ -28,7 +28,7 @@ The list allows you to sort or search for employees by name.
 
 ## Preview
 
-![preview1](./public/preview1.png)
+![preview1](./public/preview1.PNG)
 
 ## Demo
 
