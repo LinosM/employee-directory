@@ -10,6 +10,7 @@ Employee Directory is a [React](https://reactjs.org/) application that uses the 
 * [Usage](#usage)
 * [Preview](#preview)
 * [Demo](#demo)
+* [Technology Used](#tech)
 * [Questions](#questions)
 
 ## Installation
@@ -35,6 +36,16 @@ The list allows you to sort or search for employees by name.
 A demo of this application is live on GitHub Pages
 
 https://linosm.github.io/employee-directory/
+
+<a name ="tech">
+    
+## Technology Used
+
+* React
+* JSX
+* JavaScript
+* Bootstrap
+* Node
 
 ## Questions
 
